@@ -1,0 +1,114 @@
+[02:14:01] ### INDULAS  stage=mind  jobs=8
+[02:14:01] === 1. SZAKASZ: Emo-Soundscapes, mind a 600 eredeti klip ===
+[02:14:03]    600 klip, valencia elmentve
+[02:14:03]    600 fajl feldolgozasra var
+[02:19:25]    20/600  (3%)  eltelt 5 perc, hatra ~156 perc
+[02:23:49]    40/600  (7%)  eltelt 10 perc, hatra ~137 perc
+[02:29:23]    60/600  (10%)  eltelt 15 perc, hatra ~138 perc
+[02:35:13]    80/600  (13%)  eltelt 21 perc, hatra ~138 perc
+[02:40:00]    100/600  (17%)  eltelt 26 perc, hatra ~130 perc
+[02:44:41]    120/600  (20%)  eltelt 31 perc, hatra ~123 perc
+[02:49:11]    140/600  (23%)  eltelt 35 perc, hatra ~115 perc
+[02:53:40]    160/600  (27%)  eltelt 40 perc, hatra ~109 perc
+[02:58:32]    180/600  (30%)  eltelt 44 perc, hatra ~104 perc
+[03:03:34]    200/600  (33%)  eltelt 50 perc, hatra ~99 perc
+[03:08:55]    220/600  (37%)  eltelt 55 perc, hatra ~95 perc
+[03:13:55]    240/600  (40%)  eltelt 60 perc, hatra ~90 perc
+[03:19:35]    260/600  (43%)  eltelt 66 perc, hatra ~86 perc
+[03:23:48]    280/600  (47%)  eltelt 70 perc, hatra ~80 perc
+[03:28:24]    300/600  (50%)  eltelt 74 perc, hatra ~74 perc
+[03:33:44]    320/600  (53%)  eltelt 80 perc, hatra ~70 perc
+[03:38:10]    340/600  (57%)  eltelt 84 perc, hatra ~64 perc
+[03:42:49]    360/600  (60%)  eltelt 89 perc, hatra ~59 perc
+[03:47:51]    380/600  (63%)  eltelt 94 perc, hatra ~54 perc
+[03:52:02]    400/600  (67%)  eltelt 98 perc, hatra ~49 perc
+[03:56:35]    420/600  (70%)  eltelt 103 perc, hatra ~44 perc
+[04:01:37]    440/600  (73%)  eltelt 108 perc, hatra ~39 perc
+[04:05:03]    460/600  (77%)  eltelt 111 perc, hatra ~34 perc
+[04:09:56]    480/600  (80%)  eltelt 116 perc, hatra ~29 perc
+[04:14:29]    500/600  (83%)  eltelt 120 perc, hatra ~24 perc
+[04:18:55]    520/600  (87%)  eltelt 125 perc, hatra ~19 perc
+[04:23:36]    540/600  (90%)  eltelt 130 perc, hatra ~14 perc
+[04:27:53]    560/600  (93%)  eltelt 134 perc, hatra ~10 perc
+[04:34:02]    580/600  (97%)  eltelt 140 perc, hatra ~5 perc
+[04:38:55]    600/600  (100%)  eltelt 145 perc, hatra ~0 perc
+[04:38:55] === 2. SZAKASZ: ESC-50 teljes keszlet, tonalitassal ===
+[04:38:55] [!] Nincs test_data/office_sounds, a szakasz kimarad.
+[04:38:55] ### KESZ  (145 perc)
+[09:13:29] ### INDULAS  stage=esc  jobs=8
+[09:13:29] === 2. SZAKASZ: ESC-50 teljes keszlet, tonalitassal ===
+[09:13:29]    adatmappa: C:\Users\vizik\Downloads\test_data\office_sounds
+[09:13:29]    240 fajl, 6 osztaly
+[09:13:29]    240 fajl feldolgozasra var
+[09:17:39]    20/240  (8%)  eltelt 4 perc, hatra ~46 perc
+[09:20:41]    40/240  (17%)  eltelt 7 perc, hatra ~36 perc
+[09:23:35]    60/240  (25%)  eltelt 10 perc, hatra ~30 perc
+[09:26:45]    80/240  (33%)  eltelt 13 perc, hatra ~27 perc
+[09:30:32]    100/240  (42%)  eltelt 17 perc, hatra ~24 perc
+[09:34:51]    120/240  (50%)  eltelt 21 perc, hatra ~21 perc
+[09:39:11]    140/240  (58%)  eltelt 26 perc, hatra ~18 perc
+[09:42:29]    160/240  (67%)  eltelt 29 perc, hatra ~15 perc
+[09:46:33]    180/240  (75%)  eltelt 33 perc, hatra ~11 perc
+[09:50:04]    200/240  (83%)  eltelt 37 perc, hatra ~7 perc
+[09:53:19]    220/240  (92%)  eltelt 40 perc, hatra ~4 perc
+[09:56:33]    240/240  (100%)  eltelt 43 perc, hatra ~0 perc
+[09:56:33] ### KESZ  (43 perc)
+[10:06:15] ### INDULAS  stage=esc  jobs=8
+[10:06:15] === 2. SZAKASZ: ESC-50 teljes keszlet, tonalitassal ===
+[10:06:15]    adatmappa: C:\Users\vizik\Downloads\test_data\office_sounds
+[10:06:15]    1280 fajl, 32 osztaly
+[10:06:15]    folytatas: 240 fajl mar kesz, kihagyom
+[10:06:15]    1040 fajl feldolgozasra var
+[10:10:45]    20/1040  (2%)  eltelt 5 perc, hatra ~230 perc
+[10:16:09]    40/1040  (4%)  eltelt 10 perc, hatra ~248 perc
+[10:19:39]    60/1040  (6%)  eltelt 13 perc, hatra ~219 perc
+[10:24:05]    80/1040  (8%)  eltelt 18 perc, hatra ~214 perc
+[10:26:24]    100/1040  (10%)  eltelt 20 perc, hatra ~190 perc
+[10:29:26]    120/1040  (12%)  eltelt 23 perc, hatra ~178 perc
+[10:34:07]    140/1040  (13%)  eltelt 28 perc, hatra ~179 perc
+[10:39:09]    160/1040  (15%)  eltelt 33 perc, hatra ~181 perc
+[10:48:01]    180/1040  (17%)  eltelt 42 perc, hatra ~200 perc
+[10:50:41]    200/1040  (19%)  eltelt 44 perc, hatra ~187 perc
+[10:53:06]    220/1040  (21%)  eltelt 47 perc, hatra ~175 perc
+[10:54:56]    240/1040  (23%)  eltelt 49 perc, hatra ~162 perc
+[10:57:10]    260/1040  (25%)  eltelt 51 perc, hatra ~153 perc
+[10:59:45]    280/1040  (27%)  eltelt 54 perc, hatra ~145 perc
+[11:02:29]    300/1040  (29%)  eltelt 56 perc, hatra ~139 perc
+[11:05:11]    320/1040  (31%)  eltelt 59 perc, hatra ~133 perc
+[11:08:48]    340/1040  (33%)  eltelt 63 perc, hatra ~129 perc
+[11:13:45]    360/1040  (35%)  eltelt 68 perc, hatra ~128 perc
+[11:19:03]    380/1040  (37%)  eltelt 73 perc, hatra ~126 perc
+[11:23:51]    400/1040  (38%)  eltelt 78 perc, hatra ~124 perc
+[11:26:51]    420/1040  (40%)  eltelt 81 perc, hatra ~119 perc
+[11:29:31]    440/1040  (42%)  eltelt 83 perc, hatra ~114 perc
+[11:31:40]    460/1040  (44%)  eltelt 85 perc, hatra ~108 perc
+[11:33:49]    480/1040  (46%)  eltelt 88 perc, hatra ~102 perc
+[11:35:58]    500/1040  (48%)  eltelt 90 perc, hatra ~97 perc
+[11:38:03]    520/1040  (50%)  eltelt 92 perc, hatra ~92 perc
+[11:40:48]    540/1040  (52%)  eltelt 95 perc, hatra ~88 perc
+[11:43:23]    560/1040  (54%)  eltelt 97 perc, hatra ~83 perc
+[11:45:32]    580/1040  (56%)  eltelt 99 perc, hatra ~79 perc
+[11:47:54]    600/1040  (58%)  eltelt 102 perc, hatra ~75 perc
+[11:50:12]    620/1040  (60%)  eltelt 104 perc, hatra ~70 perc
+[11:52:23]    640/1040  (62%)  eltelt 106 perc, hatra ~66 perc
+[11:53:25]    660/1040  (63%)  eltelt 107 perc, hatra ~62 perc
+[11:54:48]    680/1040  (65%)  eltelt 109 perc, hatra ~57 perc
+[11:57:08]    700/1040  (67%)  eltelt 111 perc, hatra ~54 perc
+[12:00:04]    720/1040  (69%)  eltelt 114 perc, hatra ~51 perc
+[12:02:03]    740/1040  (71%)  eltelt 116 perc, hatra ~47 perc
+[12:04:06]    760/1040  (73%)  eltelt 118 perc, hatra ~43 perc
+[12:06:02]    780/1040  (75%)  eltelt 120 perc, hatra ~40 perc
+[12:08:13]    800/1040  (77%)  eltelt 122 perc, hatra ~37 perc
+[12:10:08]    820/1040  (79%)  eltelt 124 perc, hatra ~33 perc
+[12:11:50]    840/1040  (81%)  eltelt 126 perc, hatra ~30 perc
+[12:13:56]    860/1040  (83%)  eltelt 128 perc, hatra ~27 perc
+[12:15:50]    880/1040  (85%)  eltelt 130 perc, hatra ~24 perc
+[12:18:02]    900/1040  (87%)  eltelt 132 perc, hatra ~20 perc
+[12:20:28]    920/1040  (88%)  eltelt 134 perc, hatra ~18 perc
+[12:23:06]    940/1040  (90%)  eltelt 137 perc, hatra ~15 perc
+[12:25:40]    960/1040  (92%)  eltelt 139 perc, hatra ~12 perc
+[12:27:07]    980/1040  (94%)  eltelt 141 perc, hatra ~9 perc
+[12:28:19]    1000/1040  (96%)  eltelt 142 perc, hatra ~6 perc
+[12:30:42]    1020/1040  (98%)  eltelt 144 perc, hatra ~3 perc
+[12:33:37]    1040/1040  (100%)  eltelt 147 perc, hatra ~0 perc
+[12:33:37] ### KESZ  (147 perc)
